@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: cal (100vh - 200px);
+    width: cal (50vw + 100px);
+    background: red;
+   /* height: calc(100vh - 200px);*/
+   /* width: cal ((50vw + 200px)/2);*/
+    
+}
